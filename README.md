@@ -11,58 +11,12 @@ Um editor de tags de áudio completo e com interface moderna para Windows, desen
 - **Salvamento seguro**: Salva as tags diretamente no arquivo de áudio
 - **Controle de alterações**: Cancele mudanças não salvas e receba avisos antes de fechar
 
-## 🖥️ Preview
-
-![Tag Editor Pro](https://img.shields.io/badge/Platform-Windows-blue.svg)
-![.NET](https://img.shields.io/badge/.NET-4.7.2-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ## 📋 Requisitos
 
 - Windows 7 ou superior
 - .NET Framework 4.7.2 ou superior
 
-## 🚀 Instalação e Uso
 
-### Opção 1: Executar diretamente
-
-1. Baixe a versão mais recente em [Releases](https://github.com/seu-usuario/TagEditor/releases)
-2. Extraia o arquivo ZIP
-3. Execute `TagEditor.exe`
-
-### Opção 2: Compilar o projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/TagEditor.git
-cd TagEditor
-```
-
-2. Abra o arquivo `TagEditor.slnx` no Visual Studio 2017+
-
-3. Compile e execute (F5)
-
-### Usando o aplicativo
-
-1. **Clique em "..."** para selecionar um arquivo de áudio
-2. **Edite os campos** desejados (título, artista, álbum, ano, etc.)
-3. **Altere a capa** clicando em "Alterar Capa" ou remova com "Remover Capa"
-4. **Clique em "SALVAR TAGS"** para aplicar as alterações ao arquivo
-
-## 📁 Estrutura do Projeto
-
-```
-TagEditor/
-├── Form1.cs                 # Lógica principal do aplicativo
-├── Form1.Designer.cs        # Design da interface
-├── Program.cs               # Ponto de entrada
-├── TagEditor.csproj         # Arquivo do projeto
-├── packages/
-│   └── TagLibSharp/         # Biblioteca de manipulação de tags
-└── bin/
-    └── Debug/
-        └── TagEditor.exe    # Executável
-```
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -97,13 +51,6 @@ TagEditor/
 - **Comentário** - Comentários sobre a faixa
 - **Compositor** - Compositor da música (separar múltiplos com `;`)
 
-## 🤝 Contribuindo
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Push para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abra um Pull Request
 
 ## 📄 Licença
 
@@ -111,12 +58,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🐛 Bugs e Sugestões
 
-Encontrou um bug ou tem uma sugestão? Abra uma [Issue](https://github.com/seu-usuario/TagEditor/issues)!
 
-## 📧 Contato
+- **Author**: Rockmiih
 
-- **Author**: Seu Nome
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
 
 ---
 
