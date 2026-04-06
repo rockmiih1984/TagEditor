@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TagEditorInstall/TagEditorInstall.vdproj" Type="Installer" />
+  <Project Path="TagEditor.csproj" Id="077e02ae-5416-44bf-ac0b-14e4d46e5832" />
+</Solution>
