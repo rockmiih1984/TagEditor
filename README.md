@@ -56,10 +56,7 @@ Um editor de tags de áudio completo e com interface moderna para Windows, desen
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🐛 Bugs e Sugestões
-
-
-- **Author**: Rockmiih
+## ✍ - **Author**: Rockmiih
 
 
 ---
