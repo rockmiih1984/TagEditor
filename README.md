@@ -52,9 +52,6 @@ Um editor de tags de áudio completo e com interface moderna para Windows, desen
 - **Compositor** - Compositor da música (separar múltiplos com `;`)
 
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## ✍ - **Author**: Rockmiih
 
